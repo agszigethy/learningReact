@@ -1,6 +1,6 @@
 import React from 'react';
 
-import CommentRemoveConfirmation from 'comment-remove-confirmation';
+import CommentRemoveConfirmation from './comment-remove-confirmation';
 
 export default class Comment extends React.Component {
   constructor() {
